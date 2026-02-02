@@ -133,3 +133,5 @@ dist
 /src/__core-js-promises-tasks.js
 /.editorconfig
 /package-lock.json
+
+.idea/
